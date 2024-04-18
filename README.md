@@ -14,7 +14,7 @@ Before getting started, ensure you have Node.js and npm installed on your machin
 
 ```bash
 # Clone the repository
-git clone https://github.com/MuhammadShakkeer2030/flipkart_clone.git
+git clone https://github.com/LucasHunter1004/flipkart_clone.git
 
 # Navigate to the project directory
 cd flipkart_clone
@@ -89,7 +89,7 @@ flikart/
 ├── tsconfig.json
 └── ...
 ```
-![image](https://github.com/muhammadshakkeerp/flipkart_clone/assets/121001685/0ae96fbf-dc94-4691-87f0-36e04bcbf93d)
+![image](https://github.com/LucasHunter1004/flipkart_clone/assets/121001685/0ae96fbf-dc94-4691-87f0-36e04bcbf93d)
 
 ## Optimized File
 ``` 
